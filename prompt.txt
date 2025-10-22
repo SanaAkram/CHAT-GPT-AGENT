@@ -1,0 +1,1 @@
+Prompt id hidden and will be set in environment variables using AWS Sectrets manager.
